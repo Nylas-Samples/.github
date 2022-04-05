@@ -8,13 +8,13 @@ Find code snippets for authentication, scheduling, connectivity and more.
 <br />
 
 ## Table of contents
-- [Auth samples](https://github.com/nylas-samples/readme#auth-samples)
-- [Email samples](https://github.com/nylas-samples/readme#email-samples)
-- [Calendar and Events samples](https://github.com/nylas-samples/readme#calendar-and-events-samples)
-- [Scheduler samples](https://github.com/nylas-samples/readme#scheduler-samples)
-- [Components samples](https://github.com/nylas-samples/readme#components-samples)
-- [Neural samples](https://github.com/nylas-samples/readme#neural-samples)
-- [Full demo apps](https://github.com/nylas-samples/readme#full-demo-apps)
+- [Auth samples](https://github.com/nylas-samples#auth-samples)
+- [Email samples](https://github.com/nylas-samples#email-samples)
+- [Calendar and Events samples](https://github.com/nylas-samples#calendar-and-events-samples)
+- [Scheduler samples](https://github.com/nylas-samples#scheduler-samples)
+- [Components samples](https://github.com/nylas-samples#components-samples)
+- [Neural samples](https://github.com/nylas-samples#neural-samples)
+- [Full demo apps](https://github.com/nylas-samples#full-demo-apps)
 
 <br />
 <br />
