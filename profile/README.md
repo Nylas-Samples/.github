@@ -46,6 +46,3 @@ Find code snippets for authentication, scheduling, connectivity and more.
 
 <br />
 <br />
-
-# Contributing samples 
-
