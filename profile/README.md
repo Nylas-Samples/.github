@@ -34,6 +34,10 @@ Find code snippets for authentication, scheduling, connectivity and more.
 - [node-email-send](https://github.com/nylas-samples/node-email-send): Send an email with Nylas Node.js SDK!
 - [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas Node.js SDK!
 
+**Python SDK**
+
+- [python-email-read](https://github.com/nylas-samples/python-email-send): Send an email with Nylas Python SDK!
+
 ### Contact samples
 
 - [](https://github.com/nylas-samples/)
