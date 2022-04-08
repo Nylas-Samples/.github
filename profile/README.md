@@ -39,6 +39,10 @@ Find code snippets for authentication, scheduling, connectivity and more.
 - [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with Nylas Python SDK!
 - [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with Nylas Python SDK!
 
+**Ruby SDK**
+
+- [ruby-email-send](https://github.com/nylas-samples/ruby-email-send): Send an email with Nylas Ruby SDK!
+
 ### Contact samples
 
 - [](https://github.com/nylas-samples/)
