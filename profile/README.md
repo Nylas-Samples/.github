@@ -36,7 +36,8 @@ Find code snippets for authentication, scheduling, connectivity and more.
 
 **Python SDK**
 
-- [python-email-read](https://github.com/nylas-samples/python-email-send): Send an email with Nylas Python SDK!
+- [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with Nylas Python SDK!
+- [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with Nylas Python SDK!
 
 ### Contact samples
 
