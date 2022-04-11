@@ -54,7 +54,9 @@ Find code snippets for authentication, scheduling, connectivity and more.
 
 ### Scheduler samples (page configuration and API usage)
 
-- [](https://github.com/nylas-samples/)
+**Node.js SDK**
+
+- [node-scheduler-create](https://github.com/nylas-samples/node-scheduler-create): Create a scheduler page with Node.js SDK
 
 ### Components samples
 
