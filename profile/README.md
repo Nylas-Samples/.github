@@ -44,6 +44,7 @@ Find code snippets for authentication, scheduling, connectivity and more.
 
 - [ruby-email-send](https://github.com/nylas-samples/ruby-email-send): Send an email with Nylas Ruby SDK!
 - [ruby-email-read](https://github.com/nylas-samples/ruby-email-read): Read your email with Nylas Ruby SDK!
+- [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with Nylas Ruby SDK!
 
 ### Contact samples
 
