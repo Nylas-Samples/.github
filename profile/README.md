@@ -1,5 +1,3 @@
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/xynkdxbpm0vkft0f1e4e" width="100px"/>
-
 # Welcome to Nylas Code Samples!
 
 Find code snippets for authentication, scheduling, connectivity and more.
