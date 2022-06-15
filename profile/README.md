@@ -32,6 +32,7 @@ Find code snippets for authentication, scheduling, connectivity and more.
 - [node-email-send](https://github.com/nylas-samples/node-email-send): Send an email with Nylas Node.js SDK!
 - [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas Node.js SDK!
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with Nylas Node.js SDK!
+- [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manager Calendar Events with Nylas Node.js SDK!
 
 **Python SDK**
 
