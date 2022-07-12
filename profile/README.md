@@ -14,6 +14,7 @@ Find code snippets for authentication, scheduling, connectivity and more.
 - [Scheduler samples](https://github.com/nylas-samples#scheduler-samples)
 - [Components samples](https://github.com/nylas-samples#components-samples)
 - [Neural samples](https://github.com/nylas-samples#neural-samples)
+- [Blog post demo apps](https://github.com/nylas-samples#blog-post-demo-apps)
 - [Full demo apps](https://github.com/nylas-samples#full-demo-apps)
 
 <br />
@@ -66,6 +67,10 @@ Find code snippets for authentication, scheduling, connectivity and more.
 - [](https://github.com/nylas-samples/)
 
 ### Neural samples (Small batches of fake data customers can test with)
+
+- [](https://github.com/nylas-samples/)
+
+### Blog post demo apps
 
 - [](https://github.com/nylas-samples/)
 
