@@ -77,3 +77,4 @@ Find code snippets for authentication, scheduling, connectivity and more.
 ### Full demo apps
 
 - [Python, Sentiment Analysis, R and Shiny](https://github.com/nylas-samples/python-sentimentanalysis-r-shiny)
+- [Send Emails with Rust and C#](https://github.com/nylas-samples/send_emails_rust_csharp)
