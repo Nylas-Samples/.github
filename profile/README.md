@@ -76,7 +76,4 @@ Find code snippets for authentication, scheduling, connectivity and more.
 
 ### Full demo apps
 
-- [](https://github.com/nylas-samples/)
-
-<br />
-<br />
+- [Python, Sentiment Analysis, R and Shiny](https://github.com/nylas-samples/python-sentimentanalysis-r-shiny)
