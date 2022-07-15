@@ -1,80 +1,67 @@
 # Welcome to Nylas Code Samples!
 
-Find code snippets for authentication, scheduling, connectivity and more.
+Find code snippets for Nylas authentication, scheduling, email, calendar, and more.
 
-> _We're still working on our samples right now. If you're interested in building for Nylas, [come join us](https://jobs.lever.co/nylas/?department=Engineering)._
+Other places to learn:
 
-<br />
+- [Nylas documentation](https://developer.nylas.com): API references, developer guides, and more.
+- [Nylas blog](https://www.nylas.com/blog/): We post new developer content 1–2 times a week here.
+- [Nylas YouTube channel](https://www.youtube.com/c/nylas): "Coding with Nylas", "Nylas On-Demand", and more. New content weekly.
 
-## Table of contents
+_If you're interested in building for Nylas, [come join us](https://jobs.lever.co/nylas/?department=Engineering)._
 
-- [Auth samples](https://github.com/nylas-samples#auth-samples)
-- [Email samples](https://github.com/nylas-samples#email-samples)
-- [Calendar and Events samples](https://github.com/nylas-samples#calendar-and-events-samples)
-- [Scheduler samples](https://github.com/nylas-samples#scheduler-samples)
-- [Components samples](https://github.com/nylas-samples#components-samples)
-- [Neural samples](https://github.com/nylas-samples#neural-samples)
-- [Blog post demo apps](https://github.com/nylas-samples#blog-post-demo-apps)
-- [Full demo apps](https://github.com/nylas-samples#full-demo-apps)
-
-<br />
-<br />
 
 # Samples list
 
-### Auth samples
+## Auth samples
 
-- [](https://github.com/nylas-samples/)
+- [python-account-tokeninfo](https://github.com/nylas-samples/python-account-tokeninfo): Get information about your auth tokens!
 
-### Email samples
+## Email API samples
 
 **Node.js SDK**
-- [node-starter-repo](https://github.com/nylas-samples/node-starter-repo): Start building with Nylas Node.js SDK!
-- [node-email-send](https://github.com/nylas-samples/node-email-send): Send an email with Nylas Node.js SDK!
-- [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas Node.js SDK!
-- [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with Nylas Node.js SDK!
-- [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manager Calendar Events with Nylas Node.js SDK!
+- [node-starter-repo](https://github.com/nylas-samples/node-starter-repo): Start building with the Nylas Node.js SDK!
+- [node-email-send](https://github.com/nylas-samples/node-email-send): Send an email with Nylas the Node.js SDK!
+- [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas the Node.js SDK!
+- [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
+- [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
 
 **Python SDK**
 
-- [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with Nylas Python SDK!
-- [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with Nylas Python SDK!
-- [python-email-delete](https://github.com/nylas-samples/python-email-delete): Delete an email with Nylas Python SDK!
-- [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using Nylas Python SDK
+- [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with the Nylas Python SDK!
+- [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with the Nylas Python SDK!
+- [python-email-delete](https://github.com/nylas-samples/python-email-delete): Delete an email with the Nylas Python SDK!
+- [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
 
 **Ruby SDK**
 
-- [ruby-email-send](https://github.com/nylas-samples/ruby-email-send): Send an email with Nylas Ruby SDK!
-- [ruby-email-read](https://github.com/nylas-samples/ruby-email-read): Read your email with Nylas Ruby SDK!
-- [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with Nylas Ruby SDK!
+- [ruby-email-send](https://github.com/nylas-samples/ruby-email-send): Send an email with the Nylas Ruby SDK!
+- [ruby-email-read](https://github.com/nylas-samples/ruby-email-read): Read your email with the Nylas Ruby SDK!
+- [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with the Nylas Ruby SDK!
 
-### Contact samples
+**Java SDK**
 
-- [](https://github.com/nylas-samples/)
+- [java-email-send](https://github.com/nylas-samples/java-email-send): Send an email with the Nylas Java SDK!
 
-### Calendar and Events samples
+**Other languages**
 
-- [](https://github.com/nylas-samples/)
+- [Send Emails with Rust and C#](https://github.com/nylas-samples/send_emails_rust_csharp): Send an email with Nylas REST APIs using Rust or C#!
 
-### Scheduler samples (page configuration and API usage)
+## Contact API samples
+
+- [contact-list-json-data](https://github.com/nylas-samples/contact-list-json-data): Use JSON data with the Contact List Component!
+
+## Calendar and Events API samples
+
+- [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
+
+## Scheduler samples
 
 **Node.js SDK**
 
-- [node-scheduler-create](https://github.com/nylas-samples/node-scheduler-create): Create a scheduler page with Nylas Node.js SDK
+- [node-scheduler-create](https://github.com/nylas-samples/node-scheduler-create): Create a scheduler page with the Nylas Node.js SDK!
 
-### Components samples
+## Neural API samples
 
-- [](https://github.com/nylas-samples/)
+- [python-sentimentanalysis-r-shiny](https://github.com/nylas-samples/python-sentimentanalysis-r-shiny): Get sentiment analysis on email data
 
-### Neural samples (Small batches of fake data customers can test with)
-
-- [](https://github.com/nylas-samples/)
-
-### Blog post demo apps
-
-- [](https://github.com/nylas-samples/)
-
-### Full demo apps
-
-- [Python, Sentiment Analysis, R and Shiny](https://github.com/nylas-samples/python-sentimentanalysis-r-shiny)
-- [Send Emails with Rust and C#](https://github.com/nylas-samples/send_emails_rust_csharp)
