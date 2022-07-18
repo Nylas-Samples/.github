@@ -26,6 +26,9 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
 - [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
 
+**Node.js**
+- [node-webhooks-challenge-serverless-function](https://github.com/nylas-samples/node-webhooks-challenge-serverless-function/settings): Create Nylas Webhooks with NodeJS
+
 **Python SDK**
 
 - [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with the Nylas Python SDK!
