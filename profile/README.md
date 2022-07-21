@@ -49,6 +49,7 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 **Other languages**
 
 - [Send Emails with Rust and C#](https://github.com/nylas-samples/send_emails_rust_csharp): Send an email with Nylas REST APIs using Rust or C#!
+- [Send and Read Emails with PHP](https://github.com/nylas-samples/php_send_and_read_emails): Read or Send an email with Nylas REST APIs using PHP!
 
 ## Contact API samples
 
