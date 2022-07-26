@@ -45,6 +45,7 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 **Java SDK**
 
 - [java-email-send](https://github.com/nylas-samples/java-email-send): Send an email with the Nylas Java SDK!
+- [java-email-send-form](https://github.com/nylas-samples/java-email-send-form): Send an email from a web form with the Nylas Java SDK!
 
 **Other languages**
 
