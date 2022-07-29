@@ -24,7 +24,6 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 - [node-email-send](https://github.com/nylas-samples/node-email-send): Send an email with Nylas the Node.js SDK!
 - [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas the Node.js SDK!
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
-- [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
 
 **Node.js**
 - [node-webhooks-challenge-serverless-function](https://github.com/nylas-samples/node-webhooks-challenge-serverless-function): Create Nylas Webhooks with NodeJS
@@ -34,7 +33,6 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 - [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with the Nylas Python SDK!
 - [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with the Nylas Python SDK!
 - [python-email-delete](https://github.com/nylas-samples/python-email-delete): Delete an email with the Nylas Python SDK!
-- [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
 
 **Ruby SDK**
 
@@ -58,7 +56,16 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 
 ## Calendar and Events API samples
 
+**Node.js SDK**
 - [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
+
+**Python SDK**
+- [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
+
+**Other languages**
+- [Read Calendars with C#](https://github.com/nylas-samples/read_calendars_c_sharp): Read calendars using C#
+- [Read Events with C#](https://github.com/nylas-samples/read_events_c_sharp): Read daily events using C#
+- [Create Events with C#](https://github.com/nylas-samples/create_events_c_sharp): Create an event using C#
 
 ## Scheduler samples
 
