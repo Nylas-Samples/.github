@@ -25,9 +25,6 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 - [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas the Node.js SDK!
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
 
-**Node.js**
-- [node-webhooks-challenge-serverless-function](https://github.com/nylas-samples/node-webhooks-challenge-serverless-function): Create Nylas Webhooks with NodeJS
-
 **Python SDK**
 
 - [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with the Nylas Python SDK!
@@ -79,3 +76,7 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 
 - [python-sentimentanalysis-r-shiny](https://github.com/nylas-samples/python-sentimentanalysis-r-shiny): Get sentiment analysis on email data
 
+## Webhook samples
+
+**Node.js**
+- [node-webhooks-challenge-serverless-function](https://github.com/nylas-samples/node-webhooks-challenge-serverless-function): Create Nylas Webhooks with NodeJS
