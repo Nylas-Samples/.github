@@ -36,6 +36,7 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 - [ruby-email-send](https://github.com/nylas-samples/ruby-email-send): Send an email with the Nylas Ruby SDK!
 - [ruby-email-read](https://github.com/nylas-samples/ruby-email-read): Read your email with the Nylas Ruby SDK!
 - [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with the Nylas Ruby SDK!
+- [Shoes-Mail-Client](https://github.com/nylas-samples/Shoes-Mail-Client): Create a mail box using the Nylas APIs, JRuby and Shoes 4.
 
 **Java SDK**
 
