@@ -81,3 +81,6 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 
 **Node.js**
 - [node-webhooks-challenge-serverless-function](https://github.com/nylas-samples/node-webhooks-challenge-serverless-function): Create Nylas Webhooks with NodeJS
+
+## Infrastructure setup
+- [infra-setup](https://github.com/nylas-samples/infra-setup): A collection of scripts to automate Nylas client's required infrastructure
