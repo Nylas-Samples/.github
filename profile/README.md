@@ -58,6 +58,7 @@ _If you're interested in building for Nylas, [come join us](https://jobs.lever.c
 
 **Node.js SDK**
 - [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
+- [node-send-calendar-event-notifications](https://github.com/nylas-samples/node-send-calendar-event-notifications) Manage calendar events notifications with the Nylas Node.js SDK!
 
 **Python SDK**
 - [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
