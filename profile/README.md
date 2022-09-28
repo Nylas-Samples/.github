@@ -15,7 +15,7 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 
 # Samples list
 
-## Samples Starter Repos
+## Starter Repos
 - [nylas-code-samples-starter](https://github.com/nylas-samples/nylas-code-samples-starter): Use this as a template when creating code samples.
 
 ## Auth samples
