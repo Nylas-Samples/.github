@@ -10,6 +10,8 @@ Other places to learn:
 
 _If you're interested in building for Nylas, [come join us](https://ats.comparably.com/api/v1/gh/nylas)._
 
+## Hacktoberfest 2022
+Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-hacktoberfest-2022) to learn more
 
 # Samples list
 
