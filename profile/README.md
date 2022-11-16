@@ -69,6 +69,9 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 **Python SDK**
 - [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
 
+**Java SDK**
+- [java-read-calendars](https://github.com/nylas-samples/java-read-calendars): Get a list of all your calendars
+
 **Other languages**
 - [Read Calendars with C#](https://github.com/nylas-samples/read_calendars_c_sharp): Read calendars using C#
 - [Read Events with C#](https://github.com/nylas-samples/read_events_c_sharp): Read daily events using C#
