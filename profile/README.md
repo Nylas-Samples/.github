@@ -72,6 +72,7 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 **Java SDK**
 - [java-read-calendars](https://github.com/nylas-samples/java-read-calendars): Get a list of all your calendars
 - [java-read-calendar-events](https://github.com/nylas-samples/java-read-calendar-events): Get a list of all your events for an specific calendar
+- [java-create-calendar-events](https://github.com/nylas-samples/java-create-calendar-events): Create calendar events for an specific calendar
 
 **Other languages**
 - [Read Calendars with C#](https://github.com/nylas-samples/read_calendars_c_sharp): Read calendars using C#
