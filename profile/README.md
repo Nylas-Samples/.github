@@ -42,6 +42,7 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 - [ruby-email-read](https://github.com/nylas-samples/ruby-email-read): Read your email with the Nylas Ruby SDK!
 - [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with the Nylas Ruby SDK!
 - [Shoes-Mail-Client](https://github.com/nylas-samples/Shoes-Mail-Client): Create a mail box using the Nylas APIs, JRuby and Shoes 4.
+- [EmailThreading_Ruby](https://github.com/nylas-samples/EmailThreading_Ruby): Group and visualize your email threads
 
 **Java SDK**
 
