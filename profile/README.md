@@ -11,7 +11,7 @@ Other places to learn:
 _If you're interested in building for Nylas, [come join us](https://ats.comparably.com/api/v1/gh/nylas)._
 
 ## Hacktoberfest 2022
-Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-hacktoberfest-2022) to learn more
+We've included all contributions from [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-hacktoberfest-2022) below.
 
 # Samples list
 
@@ -29,12 +29,14 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 - [node-email-send](https://github.com/nylas-samples/node-email-send): Send an email with Nylas the Node.js SDK!
 - [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas the Node.js SDK!
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
+- [node-email-create-draft](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/email/node/create-draft): Create an draft with the Nylas Node.js SDK!
 
 **Python SDK**
 
 - [python-email-send](https://github.com/nylas-samples/python-email-send): Send an email with the Nylas Python SDK!
 - [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with the Nylas Python SDK!
 - [python-email-delete](https://github.com/nylas-samples/python-email-delete): Delete an email with the Nylas Python SDK!
+- [python-email-filter](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samplesemail/python/filter-email/): Filter Emails with the Python Nylas SDK!
 
 **Ruby SDK**
 
@@ -56,18 +58,19 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 - [Send Emails with Rust and C#](https://github.com/nylas-samples/send_emails_rust_csharp): Send an email with Nylas REST APIs using Rust or C#!
 - [Send and Read Emails with PHP](https://github.com/nylas-samples/php_send_and_read_emails): Read or Send an email with Nylas REST APIs using PHP!
 
-## Contact API samples
-
-- [contact-list-json-data](https://github.com/nylas-samples/contact-list-json-data): Use JSON data with the Contact List Component!
-
 ## Calendar and Events API samples
 
 **Node.js SDK**
 - [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
 - [node-send-calendar-event-notifications](https://github.com/nylas-samples/node-send-calendar-event-notifications) Manage calendar events notifications with the Nylas Node.js SDK!
+- [node-read-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/account/node/read-account/): Read account details using Nylas Node SDK!
+- [node-create-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/calendar/node/create-calendar/): Create calendar using Nylas Node SDK!
 
 **Python SDK**
 - [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
+- [python-create-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/calendar/python/create-calendar/): Create a calendar using Python SDK!
+- [python-filter-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/calendar/python/filter-calendar/): Filter Calendar Event using Nylas Python SDK!
+- [python-recurring-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/calendar/python/reoccuring_event/): Re-occuring Calendar Event using Nylas Python SDK!
 
 **Java SDK**
 - [java-read-calendars](https://github.com/nylas-samples/java-read-calendars): Get a list of all your calendars
@@ -78,6 +81,19 @@ Head over to [nylas-hacktoberfest-2022](https://github.com/nylas-samples/nylas-h
 - [Read Calendars with C#](https://github.com/nylas-samples/read_calendars_c_sharp): Read calendars using C#
 - [Read Events with C#](https://github.com/nylas-samples/read_events_c_sharp): Read daily events using C#
 - [Create Events with C#](https://github.com/nylas-samples/create_events_c_sharp): Create an event using C#
+
+## Contact API Samples
+
+**Node.js SDK**
+- [node-read-contacts](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/contact/node/read-contacts/): Read contacts using Nylas Node SDK and TypeScript
+- [create-contacts-from-emails](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/contact/node/create-contacts-from-emails/): Create contacts from latest emails using Nylas Node SDK and TypeScript
+
+**Python SDK**
+- [python-read-contacts](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/contact/python/read_contacts/): Read contacts using Python Nylas SDK!
+- [python-update-contact](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/contact/python/update_contact/): Update an existing account with Python Nylas SDK!
+- [python-create-contact](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/contact/python/create_contact/): Create a contact using the Nylas Python SDK!
+- [python-delete-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/contact/python/delete_contact/): Delete account details using Nylas Python SDK!
+- [python-read-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/account/python/read-account/): Read account details using Nylas Python SDK!
 
 ## Scheduler samples
 
