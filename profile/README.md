@@ -65,7 +65,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [node-send-calendar-event-notifications](https://github.com/nylas-samples/node-send-calendar-event-notifications) Manage calendar events notifications with the Nylas Node.js SDK!
 - [node-read-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/account/node/read-account/): Read account details using Nylas Node SDK!
 - [node-create-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/calendar/node/create-calendar/): Create calendar using Nylas Node SDK!
-- [sync-google-calendar-outlook](https://github.com/nylas-samples/nylas-code-samples-starter): This sample repo will show you how to easily sync Google and Outlook calendars with Nylas.
+- [sync-google-calendar-outlook](https://github.com/nylas-samples/sync-google-calendar-outlook): This sample repo will show you how to easily sync Google and Outlook calendars with Nylas.
 
 **Python SDK**
 - [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
