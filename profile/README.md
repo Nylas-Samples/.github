@@ -102,6 +102,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 **Node.js SDK**
 
 - [node-scheduler-create](https://github.com/nylas-samples/node-scheduler-create): Create a scheduler page with the Nylas Node.js SDK!
+- [scheduling-app](https://github.com/nylas-samples/scheduling-app) Scheduling App built with React and Nylas Scheduler!
 
 ## Neural API samples
 
