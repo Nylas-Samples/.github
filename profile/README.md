@@ -85,6 +85,8 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [Read Events with C#](https://github.com/nylas-samples/read_events_c_sharp): Read daily events using C#
 - [Create Events with C#](https://github.com/nylas-samples/create_events_c_sharp): Create an event using C#
 - [Create Events with R](https://github.com/nylas-samples/create_events_r): Create an event using R
+- [Create Events with Julia](https://github.com/nylas-samples/create_events_julia): Create an event using Julia
+- [Create Events with Perl](https://github.com/nylas-samples/create_events_perl): Create an event using Perl
 
 ## Contact API Samples
 
