@@ -84,6 +84,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [Read Calendars with C#](https://github.com/nylas-samples/read_calendars_c_sharp): Read calendars using C#
 - [Read Events with C#](https://github.com/nylas-samples/read_events_c_sharp): Read daily events using C#
 - [Create Events with C#](https://github.com/nylas-samples/create_events_c_sharp): Create an event using C#
+- [Create Events with R](https://github.com/nylas-samples/create_events_r): Create an event using R
 
 ## Contact API Samples
 
