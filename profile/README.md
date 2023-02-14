@@ -45,7 +45,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [ruby-email-read](https://github.com/nylas-samples/ruby-email-read): Read your email with the Nylas Ruby SDK!
 - [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with the Nylas Ruby SDK!
 - [Shoes-Mail-Client](https://github.com/nylas-samples/Shoes-Mail-Client): Create a mail box using the Nylas APIs, JRuby and Shoes 4.
-- [EmailThreading_Ruby](https://github.com/nylas-samples/EmailThreading_Ruby): Group and visualize your email threads
+- [EmailThreading_Ruby](https://github.com/nylas-samples/EmailThreading_Ruby): Group and visualize your email threads with Ruby
 - [Mail_Merge_Ruby](https://github.com/nylas-samples/mail_merge_ruby): Mail Merge Template using Ruby and Sinatra
 
 **Java SDK**
@@ -54,6 +54,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [java-email-send-form](https://github.com/nylas-samples/java-email-send-form): Send an email from a web form with the Nylas Java SDK!
 - [java-read-inbox](https://github.com/nylas-samples/java-read-email): Read your email with the Nylas Java SDK!
 - [java-email-delete](https://github.com/nylas-samples/java_email_delete): Delete an email with the Nylas Java SDK!
+- [EmailThreading_Java](https://github.com/nylas-samples/EmailThreading_Java): Group and visualize your email threads using Java
 
 **Other languages**
 
