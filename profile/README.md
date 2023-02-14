@@ -46,6 +46,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [ruby-email-delete](https://github.com/nylas-samples/ruby-email-delete): Delete an email with the Nylas Ruby SDK!
 - [Shoes-Mail-Client](https://github.com/nylas-samples/Shoes-Mail-Client): Create a mail box using the Nylas APIs, JRuby and Shoes 4.
 - [EmailThreading_Ruby](https://github.com/nylas-samples/EmailThreading_Ruby): Group and visualize your email threads
+- [Mail_Merge_Ruby](https://github.com/nylas-samples/mail_merge_ruby): Mail Merge Template using Ruby and Sinatra
 
 **Java SDK**
 
