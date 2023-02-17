@@ -31,6 +31,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [node-email-read](https://github.com/nylas-samples/node-email-read): Read your email with Nylas the Node.js SDK!
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
 - [node-email-create-draft](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/email/node/create-draft): Create an draft with the Nylas Node.js SDK!
+- [node-track-email-open-rates](https://github.com/nylas-samples/node-track-email-open-rates): Check if the email has been opened with the Nylas Node.js SDK
 
 **Python SDK**
 
