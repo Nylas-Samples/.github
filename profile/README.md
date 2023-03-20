@@ -70,6 +70,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [node-read-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/account/node/read-account/): Read account details using Nylas Node SDK!
 - [node-create-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/calendar/node/create-calendar/): Create calendar using Nylas Node SDK!
 - [sync-google-calendar-outlook](https://github.com/nylas-samples/sync-google-calendar-outlook): This sample repo will show you how to easily sync Google and Outlook calendars with Nylas.
+- [node-analyze-your-week-with-sunburst-charts](https://github.com/nylas-samples/node-analyze-your-week-with-sunburst-charts) How to Visualize Calendar Events with Sunburst Charts
 
 **Python SDK**
 - [python-holiday-generator](https://github.com/nylas-samples/python-holidays-generator): Generate a Markdown file of your Holidays Calendar using the Nylas Python SDK
