@@ -32,6 +32,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [node-email-delete](https://github.com/nylas-samples/node-delete-email): Delete an email with the Nylas Node.js SDK!
 - [node-email-create-draft](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/email/node/create-draft): Create an draft with the Nylas Node.js SDK!
 - [node-track-email-open-rates](https://github.com/nylas-samples/node-track-email-open-rates): Check if the email has been opened with the Nylas Node.js SDK
+- [node-mail-merge-react-templates](https://github.com/nylas-samples/node-mail-merge-react-templates/settings): How to Mail Merge using React Templates
 
 **Python SDK**
 
