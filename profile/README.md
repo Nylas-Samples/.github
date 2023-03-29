@@ -40,6 +40,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [python-email-read](https://github.com/nylas-samples/python-email-read): Read your email with the Nylas Python SDK!
 - [python-email-delete](https://github.com/nylas-samples/python-email-delete): Delete an email with the Nylas Python SDK!
 - [python-email-filter](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samplesemail/python/filter-email/): Filter Emails with the Python Nylas SDK!
+- [Shiny-for-Python-Building-an-Email-Dashboard](https://github.com/nylas-samples/Shiny-for-Python-Building-an-Email-Dashboard)
 
 **Ruby SDK**
 
