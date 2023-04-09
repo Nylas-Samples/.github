@@ -107,6 +107,9 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [python-delete-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/contact/python/delete_contact/): Delete account details using Nylas Python SDK!
 - [python-read-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/account/python/read-account/): Read account details using Nylas Python SDK!
 
+**Ruby SDK**
+- [addressbook_decker_ruby](https://github.com/nylas-samples/addressbook_decker_ruby): Build an old-fashioned agenda using Decker (HyperCard) and Ruby 
+
 ## Scheduler samples
 
 **Node.js SDK**
