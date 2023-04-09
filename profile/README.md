@@ -64,6 +64,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 
 - [Send Emails with Rust and C#](https://github.com/nylas-samples/send_emails_rust_csharp): Send an email with Nylas REST APIs using Rust or C#!
 - [Send and Read Emails with PHP](https://github.com/nylas-samples/php_send_and_read_emails): Read or Send an email with Nylas REST APIs using PHP!
+- [Send and Read Emails with Node-Red](https://github.com/nylas-samples/node_red_send_and_read_emails): Read or Send an email with Nylas REST APIs using Node-Red!
 
 ## Calendar and Events API samples
 
