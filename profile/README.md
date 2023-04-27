@@ -42,6 +42,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [python-email-filter](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samplesemail/python/filter-email/): Filter Emails with the Python Nylas SDK!
 - [Shiny-for-Python-Building-an-Email-Dashboard](https://github.com/nylas-samples/Shiny-for-Python-Building-an-Email-Dashboard): Build an Email Dashboard using Shiny for Python!
 - [EmailThreading_Python](https://github.com/nylas-samples/EmailThreading_Python): Group and visualize your email threads with Python 
+- [Send-an-email-using-DearPyGUI-ChatGPT-and-your-voice](https://github.com/nylas-samples/Send-an-email-using-DearPyGUI-ChatGPT-and-your-voice/blob/main/README.md): Use DearPyGUI, ChatGPT, Voice Recognition and Amazon Polly to send an email using your voice!
 
 **Ruby SDK**
 
