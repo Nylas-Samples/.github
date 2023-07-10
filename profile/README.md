@@ -83,6 +83,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [python-create-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/calendar/python/create-calendar/): Create a calendar using Python SDK!
 - [python-filter-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/calendar/python/filter-calendar/): Filter Calendar Event using Nylas Python SDK!
 - [python-recurring-calendar](https://github.com/nylas-samples/nylas-hacktoberfest-2022//tree/main/code-samples/calendar/python/reoccuring_event/): Re-occuring Calendar Event using Nylas Python SDK!
+- [nicegui_planner](https://github.com/nylas-samples/nicegui_planner): NiceGUI Daily Planner for Calendar and Email!
 
 **Java SDK**
 - [java-read-calendars](https://github.com/nylas-samples/java-read-calendars): Get a list of all your calendars
