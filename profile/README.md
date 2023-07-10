@@ -44,6 +44,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 - [EmailThreading_Python](https://github.com/nylas-samples/EmailThreading_Python): Group and visualize your email threads with Python 
 - [Send-an-email-using-DearPyGUI-ChatGPT-and-your-voice](https://github.com/nylas-samples/Send-an-email-using-DearPyGUI-ChatGPT-and-your-voice): Use DearPyGUI, ChatGPT, Voice Recognition and Amazon Polly to send an email using your voice!
 - [Create a Terminal Email Client using Textual and Python](https://github.com/nylas-samples/textual_terminal_email_client): Use Textual and Python to create a Terminal Email Client. Compose, Reply and Delete emails from your terminal window.
+- [localize_emails_python_chatgpt](https://github.com/nylas-samples/localize_emails_python_chatgpt): Localize Your Emails With ChatGPT and Python!
 
 **Ruby SDK**
 
