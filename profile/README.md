@@ -73,6 +73,7 @@ We've included all contributions from [nylas-hacktoberfest-2022](https://github.
 ## Calendar and Events API samples
 
 **Node.js SDK and JavaScript**
+- [node-two-sided-marketplace](https://github.com/nylas-samples/two-sided-marketplace/tree/main): This API backend is built for serving data to a frontend application (web/mobile) for the purpose of creating virtual calendars to share with individuals to book time slots.
 - [node-manage-calendar-events](https://github.com/nylas-samples/node-manage-calendar-events): Manage calendar events with the Nylas Node.js SDK!
 - [node-send-calendar-event-notifications](https://github.com/nylas-samples/node-send-calendar-event-notifications) Manage calendar events notifications with the Nylas Node.js SDK!
 - [node-read-account](https://github.com/nylas-samples/nylas-hacktoberfest-2022/tree/main/code-samples/account/node/read-account/): Read account details using Nylas Node SDK!
